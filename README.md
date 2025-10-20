@@ -30,7 +30,7 @@ To draw an NFA (e.g. NFA1) as a .dot file
 ``
 
 
-List of commands
+See all commands
 
 ``
 .\rvia.exe help
