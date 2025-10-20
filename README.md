@@ -6,6 +6,14 @@ Runtime verification of interactions using automata.
 
 (started September 2025)
 
+## Executable
+
+The executable is available here, and also on figshare (anonymous link) : https://figshare.com/s/79d06f993260133d85e0
+
+Not for distribution.
+
+Compiled on Windows 11, Intel(R) Core(TM) Ultra 7 165H CPU (3800 MHz).
+
 ## Commands
 
 
