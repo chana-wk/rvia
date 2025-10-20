@@ -8,30 +8,30 @@ Runtime verification of interactions using automata.
 
 ## Commands
 
-To get the list of commands
-
-``
-rvia.exe help
-``
-
 
 To call the centralized procedure on an NFA and a folder of multitraces (e.g. NFA1 and the corresponding Pass folder). Remove "-q" to see the time taken for each individual multitrace of the folder.
 
 ``
-rvia.exe ac .\Experiments\NFA1\nfa_1.timbuk .\Experiments\NFA1\Pass\ -q 
+.\rvia.exe ac .\Experiments\NFA1\nfa_1.timbuk .\Experiments\NFA1\Pass\ -q 
 ``
 
 
 To call the semi-centralized procedure on an NFA and a folder of multitraces (e.g. NFA1 and the corresponding Pass folder). Remove "-q" to see the time taken for each individual multitrace of the folder. 
 
 ``
-rvia.exe as .\Experiments\NFA1\nfa_1.timbuk .\Experiments\NFA1\Pass\ -q 
+.\rvia.exe as .\Experiments\NFA1\nfa_1.timbuk .\Experiments\NFA1\Pass\ -q 
 ``
 
 
 To draw an NFA (e.g. NFA1) as a .dot file
 
 ``
-rvia.exe draw .\Experiments\NFA1\nfa_1.timbuk -q 
+.\rvia.exe draw .\Experiments\NFA1\nfa_1.timbuk -q 
 ``
 
+
+List of commands
+
+``
+.\rvia.exe help
+``
