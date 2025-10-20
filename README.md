@@ -8,7 +8,7 @@ Runtime verification of interactions using automata.
 
 ## Commands
 
-To get list of commands
+To get the list of commands
 
 ``
 rvia.exe help
